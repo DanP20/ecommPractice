@@ -26,5 +26,20 @@
     "email": "account10@test.com",
     "password": "96055041a58f0208bb17a10c1f1027cb3106d6fb44edf5e94d978348a851dc176146e6054bdf0fb377276f003ae5081652ccd9df5e3d07a76c8e3e6e665161e0.0ac00d6e464b6dd4",
     "id": "d11b720d"
+  },
+  {
+    "email": "man@test.com",
+    "password": "8064774be0bd49aaf472f6b446b787854609e508881758cebe6dbe2997b7306ef9e204ae2adabb7615c42c62de998c7db7201d075dcb208e067fe13000b90f95.cf6662a43367dc34",
+    "id": "f6bdfbc5"
+  },
+  {
+    "email": "man@test.com",
+    "password": "1489a8ca35343905d5f17e1b06c1ea77c028e1a283606302753c3af4ae960d92f15bd05bad3a7f4f78359aae3045c9f6b0474efa3d9d578ccf3c1ce7dc9bdba8.9b8025f3eb434fd5",
+    "id": "7b3e8baf"
+  },
+  {
+    "email": "hello@email.com",
+    "password": "aba52bb21cdff74d84b5a8390448be11137175dab499d79beeac09c4f4dd5f1d1abeff80f66bf6a86cdf1bc04e05f1954367efd349368eeb87c1a5a5e4ae11c8.c4a7f68048c2f090",
+    "id": "647de104"
   }
 ]
